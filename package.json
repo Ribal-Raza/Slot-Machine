@@ -1,0 +1,19 @@
+{
+  "name": "slot-machine",
+  "version": "1.0.0",
+  "description": "Simple Slot Machine",
+  "main": "project.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "basic-slot-machine",
+    "js-basics",
+    "js-concepts"
+  ],
+  "author": "ribal-raza",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
